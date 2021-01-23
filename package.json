@@ -1,0 +1,28 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord-Bot using node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahZiltener/Discord-Bot.git"
+  },
+  "keywords": [
+    "node.js",
+    "discord"
+  ],
+  "author": "Noah Ziltener",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoahZiltener/Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/NoahZiltener/Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security"
+  }
+}

@@ -21,8 +21,11 @@
   },
   "homepage": "https://github.com/NoahZiltener/Discord-Bot#readme",
   "dependencies": {
+    "@discordjs/opus": "^0.3.3",
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0",
-    "fs": "0.0.1-security"
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "ytdl-core": "^4.4.4"
   }
 }
